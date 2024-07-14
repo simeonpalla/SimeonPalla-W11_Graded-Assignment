@@ -1,3 +1,3 @@
 # Microservices
-br
-### This assignment is part of Designing Intellegent Systems course in IIIT SEDS 
+<hr>
+### This assignment is part of the Designing Intelligent Systems course in IIIT SEDS 
